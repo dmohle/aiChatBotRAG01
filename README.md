@@ -7,5 +7,7 @@ aiChatBotRAG01
  Looking for a current youTube video on GAN and streamlit, and langchain 
 
  that is 
+
+ easy to understand
  
  
